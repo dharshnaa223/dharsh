@@ -49,7 +49,7 @@ Interactive visuals update based on filter selections
  Professionally arranged tiles with consistent design and user-friendly layout
 
 
-**CONCLUSION**
+## CONCLUSION
 
 This project highlights the power of **Power BI** not only as a visualization tool but also as a complete solution for **data cleaning, transformation, and insight generation**. By leveraging Power Query Editor, the data was shaped and refined within Power BI itself, streamlining the analysis workflow.
 
@@ -61,11 +61,11 @@ Overall, the project showcases how BI tools can drive smarter, faster business d
 
 
 
-## 👩‍💻 Developed By
+##  Developed By
 
 **Dharshnaa**  
-🎓 M.Sc. Statistics | Budding Data Analyst | Power BI Enthusiast  
-💡 Skilled in Data Visualization, Data Cleaning (Power Query), and KPI Design  
+ M.Sc. Statistics | Budding Data Analyst | Power BI Enthusiast  
+ Skilled in Data Visualization, Data Cleaning (Power Query), and KPI Design  
 
 
 
